@@ -18,3 +18,7 @@ v duchu nedotknutelných hodnot lidské důstojnosti a svobody
 ![](length.png)
 
 <audio src="output/tts-1-hd_alloy.mp3" controls preload></audio>
+
+<video controls="" autoplay="" name="media">
+    <source src="https://github.com/pavelkraleu/open-ai-audio/blob/main/output/tts-1-hd_alloy.mp3?raw=true" type="audio/mp3">
+</video>
